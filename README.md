@@ -1,7 +1,7 @@
 # :school: Ossining High School Designs
 
-This repo contains design samples from work I completed while in high school
-between September 2012 and June 2016.
+Design samples from work I completed while in high school between September 2012
+and June 2016.
 
 ## Overview
 
